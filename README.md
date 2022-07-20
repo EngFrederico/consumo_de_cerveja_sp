@@ -1,4 +1,4 @@
-# consumo_de_cerveja_sp
+# Consumo de Cerveja em SP
 
 Neste repositório, foi trabalhado com dados  obtidos do Kaggle, relacionados ao consumo de cerveja na cidade de São Paulo.
 
